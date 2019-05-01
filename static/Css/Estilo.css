@@ -20,7 +20,7 @@ body {
 	display: flex;
 	justify-content:space-between; /* atributo que centraliza HORIZONTALMENTE conteúdo com FLEXBOX */
 	height: 50px;
-	width: 1000px;
+	width: 1275px;
 	align-items:center; /* atributo que centraliza VERTICALMENTE conteúdo com FLEXBOX */
 }
 
@@ -135,6 +135,7 @@ footer {
 
 .text {
 	color:#fff;
+	margin-bottom: 5px;
 }
 
 .text1 {
@@ -142,7 +143,7 @@ footer {
 }
 
 .three {
-	height: 200px;
+	height: 300px;
 	flex-direction:column;
 	margin-bottom: 50px;
 	background-color: #fff;
@@ -151,7 +152,7 @@ footer {
 .title1 {
 	display: flex;
 	justify-content:center;
-	align-items:center;
+	align-items:flex-end;
 	flex:4;
 }
 
@@ -165,6 +166,7 @@ footer {
 .title1 h1 {
 	font-size: 50px;
 	text-align: center;
+	color: #404F61;
 }
 
 .title1 span {
@@ -196,7 +198,7 @@ footer {
 
 .grid span {
 	font-weight: bold;
-	color: #333;
+	color: #4C6173;
 }
 
 .gridText {
@@ -364,7 +366,7 @@ footer {
 	display: flex;
 	justify-content:center;
 	align-items:center;
-	height: 600px;
+	height: 700px;
 }
 
 .form_int {
@@ -387,12 +389,16 @@ footer {
 
 .form_int input {
 	margin-bottom: 5px;
+	border-radius: 5px;
+	padding: 13px;
 	border: 1px solid #E7EAEF;
 }
 
 .form_int textarea {
 	margin-bottom: 5px;
-	height: 130px;
+	border-radius: 5px;
+	padding: 13px;
+	height: 170px;
 	width: 570px;
 	border: 1px solid #E7EAEF;
 	font-size: 16px;
@@ -407,6 +413,7 @@ footer {
 .form_int button {
 	margin-bottom: 5px;
 	height: 60px;
+	border-radius: 5px;
 	width: 95px;
 	background-color: #8BBD4F;
 	color: #fff;

@@ -8,15 +8,15 @@
 							<div class="form_ft">
 									<div class="input1">
 											<div class="text">Nome</div>
-											<input type="text" placeholder="Seu primeiro nome" style="height:45px; border:1px solid #707070; font-size:16px;">
+											<input type="text" placeholder="Seu primeiro nome" style="height:60px; border:1px solid #707070; padding:13px; font-size:16px; border-radius:5px;">
 									</div>
 									<div class="input2">
 											<div class="text">E-mail</div>
-											<input type="text" placeholder="Insira seu melhor e-mail" style="height:45px; border:1px solid #707070; font-size:16px;">
+											<input type="text" placeholder="Insira seu melhor e-mail" style="height:60px; border:1px solid #707070; font-size:16px; padding:13px; border-radius:5px;">
 									</div>
 									<div class="input3">
 											<div class="text1">...</div>
-											<input type="submit" value="Quero ser avisado" style="height:45px; background-color:#8BBD4F; border:1px solid #707070; font-size: 16px; color:#fff;">
+											<input type="submit" value="Quero ser avisado" style="height:60px; background-color:#8BBD4F; border:1px solid #707070; font-size: 16px; color:#fff; border-radius:5px;">
 									</div>
 							</div>
 					</div>

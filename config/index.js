@@ -7,9 +7,8 @@ const path = require('path')
 module.exports = {
   dev: {
 
-    // Paths
     assetsSubDirectory: 'static',
-    assetsPublicPath: 'https://jhonatanaraujo1.github.io/Tratativa.ummense/',
+    assetsPublicPath: '/',
     proxyTable: {},
 
     // Various Dev Server settings

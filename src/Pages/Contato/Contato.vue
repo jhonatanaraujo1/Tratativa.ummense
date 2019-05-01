@@ -7,7 +7,7 @@
     			<h1>Fale <span>consoco</span></h1>
     			<form>
     				<input type="text" placeholder="Nome"><br>
-    				<input type="email" placeholder="Email"><br>
+    				<input type="email" placeholder="E-mail"><br>
     				<input type="tel" placeholder="Telefone"><br>
     				<textarea placeholder="Mensagem"></textarea><br>
     				<button type="submit">Enviar</button>

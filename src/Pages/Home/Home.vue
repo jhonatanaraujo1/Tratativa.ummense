@@ -75,7 +75,7 @@
 					<img src="@/assets/metodologias-ageis.png">
 				</div>
 				<div class="tc2">
-					<div class="titletc"><h1><span>As Metodologias Ágeis</span><br> nunca foram tão ágeis</h1></div>
+					<div class="titletc"><h1>As <span>Metodologias Ágeis</span><br> nunca foram tão ágeis</h1></div>
 					<div class='texttc'>
 						<p>Se você está familiarizado com termos como Scrum, Sprint, Kanban, Product<br> Backlog, XP, FDD e outros termos semelhantes, a Ummense é pra você! Implante a<br> sua forma de gestão na Ummense e ganhe ainda mais produtividade para a sua<br> equipe. Facilite a gestão e o acompanhamento em tempo real mantendo o<br> histórico de todas as informações relevantes para o projeto. Crie um subprojeto<br> para cada Story e atribua à Sprint, mantendo o projeto principal com o histórico<br> completo e Backlog.</p>
 					</div>
