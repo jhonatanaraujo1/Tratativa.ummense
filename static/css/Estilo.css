@@ -7,6 +7,19 @@ body {
 	padding: 0;
 }
 
+.fade-leave-active {
+  transition: all .3s;
+}
+
+.fade-enter-active {
+  transition: all .3s reverse;
+}
+
+.fade-enter, .fade-leave-to /* .list-leave-active below version 2.1.8 */ {
+  opacity: 0;
+  transform: translateY(10px);
+}
+
 .container {  /* Div pai, responsável por conter a div que terá o conteúdo */
 	display: flex; /* atributo que torna a div flexível */
 	height: 50px;

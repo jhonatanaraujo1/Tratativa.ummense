@@ -33,18 +33,7 @@ export default {
 <style >
 
 
-.fade-leave-active {
-  transition: all .3s;
-}
 
-.fade-enter-active {
-  transition: all .3s reverse;
-}
-
-.fade-enter, .fade-leave-to /* .list-leave-active below version 2.1.8 */ {
-  opacity: 0;
-  transform: translateY(10px);
-}
 
 
 </style>
