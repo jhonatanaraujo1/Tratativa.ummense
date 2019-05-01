@@ -1,21 +1,11 @@
-# ummense
+Tecnologias Utilizadas:
+  - CSS3 - Flexbox para Layout.
+  - HTML5 - Tags Semânticas para SEO
+  - VUEJS - Estrutura de projeto
+  - CSS3 TRANSITION - Interação INDEX => CONTATO
+  - GIT - Versionamento de código
+  - GITHUB PAGES - Servidor para hospedar.
 
-> A Vue.js project
+  LINK PARA PROJETO ONLINE : https://jhonatanaraujo1.github.io/Tratativa.ummense/
 
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+Obrigado pela oportunidade!
